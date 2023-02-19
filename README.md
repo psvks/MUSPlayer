@@ -5,8 +5,8 @@ A mp3 Music player for roblox!
 
   As you can see you will not have the option to add new songs.
   
-  1.-In your workspace folder, you need to create a folder named `musplayer`
-  2.-Inside that folder you can add your .mp3 files or .ogg files!
+  In your workspace folder, you need to create a folder named `musplayer` 
+  Inside that folder you can add your .mp3 files or .ogg files! 
 
 ## Credits
 
