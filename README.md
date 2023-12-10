@@ -1,5 +1,5 @@
 # MUSPlayer
-A mp3 Music player for roblox! (STILL WORKS WITH UWP EXPLOITS)
+A mp3 Music player for roblox!
 
 ## Set up
 
